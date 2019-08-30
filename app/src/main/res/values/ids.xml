@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="sendWorkout" />
+    <item type="id" name="workoutInputText" />
+    <item type="id" name="newWorkoutContainer" />
+    <item type="id" name="sendExercise" />
+    <item type="id" name="exerciseInputText" />
+    <item type="id" name="newExerciseContainer" />
+</resources>
